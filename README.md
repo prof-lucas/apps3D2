@@ -1,0 +1,1 @@
+Repositório contendo os arquivos utilizados em 2022 nas aulas da disciplina de Projetos de Automação - Turma 3D2
